@@ -18,5 +18,8 @@
     "reminder"
   ],
   "author": "zabi94@gmail.com",
-  "license": "SEE LICENSE IN license.txt"
+  "license": "SEE LICENSE IN license.txt",
+  "dependencies": {
+    "telebot": "^1.0.7"
+  }
 }
