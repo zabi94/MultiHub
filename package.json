@@ -1,0 +1,22 @@
+{
+  "name": "multihub-bot",
+  "version": "1.0.0",
+  "description": "Get notification from multiple service providers in a single Telegram conversation",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/zabi94/MultiHub"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "notification",
+    "service",
+    "reminder"
+  ],
+  "author": "zabi94@gmail.com",
+  "license": "SEE LICENSE IN license.txt"
+}
